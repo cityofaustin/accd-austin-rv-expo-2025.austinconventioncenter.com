@@ -1,11 +1,11 @@
 title: "2025 Austin RV Expo "
 description: Your one-stop shop for planning your event at the Austin Convention Center
 url: //austin-rv-expo-2025.austinconventioncenter.com
-start_date: 2025-02-12
+start_date: 2025-02-13
 end_date: 2025-02-16
-preliminary_floor_plan_deadline: 2025-01-11
-digital_sign_submission_deadline: 2025-01-27
-incentive_rate_deadline: 2025-01-11
+preliminary_floor_plan_deadline: 2025-01-12
+digital_sign_submission_deadline: 2025-01-28
+incentive_rate_deadline: 2025-01-12
 event_coordinator:
   name: Beto Silva
   email: humberto.silva@austintexas.gov
@@ -14,6 +14,10 @@ utility_coordinator:
   name: Victoria Razo-Dobney
   email: victoria.razo@austintexas.gov
   phone: 5124044226
+security_coordinator:
+  name: Travis Wauneka
+  email: travis.wauneka@austintexas.gov
+  phone: 5124044104
 sales_manager:
   name: Amy K. Harris, CMP
   email: amy.harris@austintexas.gov
